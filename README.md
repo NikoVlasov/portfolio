@@ -11,6 +11,7 @@ Fetch, add, and track posts efficiently with a clean, intuitive interface.
 🔗 GitHub: social-analyst-dashboard
 
 **📸 Screenshots:**
+
 Main interface:
 ![Main Interface](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot1.png)
 User1 Uploading Posts:
