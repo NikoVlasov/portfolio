@@ -27,12 +27,12 @@ Python developer with experience building data-driven applications, REST APIs, a
 - GitHub: https://github.com/NikoVlasov/social-analyst-dashboard  
 - Live demo: <add link if deployed>  
 
-**Resume Screener API Client (2005)** — One-sentence problem/solution statement  
+**Resume Screener API Client (2025)** — One-sentence problem/solution statement  
 - A Python-based tool for searching resumes via a local API, filtering them by specific skills and keywords, and exporting the results into a CSV file.
 - Tech: Python · FastAPI · Uvicorn · SQLAlchemy · SQLite · pdfplumber · python-docx · pandas · spaCy · pytest · JWT
 - GitHub: https://github.com/NikoVlasov/resume-screener
 
-**FastAPI Task Tracker (2005)** — One-sentence problem/solution statement  
+**FastAPI Task Tracker (2025)** — One-sentence problem/solution statement  
 - A lightweight REST API for task management with secure JWT authentication, built using FastAPI and SQLAlchemy.  
 - Tech: Python 3.9+ , FastAPI, SQLAlchemy, JWT (JSON Web Tokens), Pydantic v2, Uvicorn
 - GitHub: https://github.com/NikoVlasov/fastapi-tasks
