@@ -11,15 +11,15 @@ Fetch, add, and track posts efficiently with a clean, intuitive interface.
 🔗 GitHub: social-analyst-dashboard
 
 **📸 Screenshots:**
-
+Main interface:
 ![Main Interface](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot1.png)
-
+User1 Uploading Posts:
 ![User1 Uploading Posts](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot2.png)
-
+Loaded Posts List:
 ![Loaded Posts List](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot3.png)
-
+Adding a Post
 ![Adding a Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot4.png)
-
+Posts List with New Post:
 ![Posts List with New Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot5.png)
 
 
