@@ -12,20 +12,16 @@ Fetch, add, and track posts efficiently with a clean, intuitive interface.
 
 **📸 Screenshots:**
 
-### 1. Main Interface
-![Main Interface](assets/screenshot1.png)
+![Main Interface](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot1.png)
 
-### 2. Entered user1 and loaded posts
-![Load User Posts](assets/screenshot2.png)
+![User1 Uploading Posts](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot2.png)
 
-### 3. List of loaded posts
-![Loaded Posts](assets/screenshot3.png)
+![Loaded Posts List](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot3.png)
 
-### 4. Adding a new post
-![Add Post](assets/screenshot4.png)
+![Adding a Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot4.png)
 
-### 5. List with the newly added post
-![Posts After Addition](assets/screenshot5.png)
+![Posts List with New Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot5.png)
+
 
 
 2️⃣ Resume Screener API Client (2005)
