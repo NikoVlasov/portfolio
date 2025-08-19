@@ -1,63 +1,83 @@
-🚀 My Portfolio Projects
+# 👋 Hi, I'm Nikita Vlasov
 
-Welcome to my portfolio! Below are my selected projects showcasing my experience in Python, FastAPI, data analysis, and web applications. Each project includes a brief description, technology stack, and GitHub link.
+**Python Developer | Full-Stack Engineer**  
+Remote (open to relocation)  
+📧 Email: [snat2306@yahoo.com](mailto:snat2306@yahoo.com)  
+💻 GitHub: [NikoVlasov](https://github.com/NikoVlasov)  
+🌐 Telegram: [@snat2306](https://t.me/snat2306)
 
-1️⃣ Social Analyst Dashboard (2025)
+---
 
-📊 A desktop application for managing social media posts.
-Fetch, add, and track posts efficiently with a clean, intuitive interface.
+## 🛠 Skills
 
-🛠 Tech: Python · Streamlit · Requests · SQLite · pandas · pytest
-🔗 GitHub: social-analyst-dashboard
+**Languages:** Python · JavaScript (React) · SQL  
+**Frameworks:** FastAPI · Flask · Django (in progress) · Streamlit · React  
+**Tools / Databases:** SQLAlchemy · Pandas · NumPy · PostgreSQL/SQLite · Docker · Git/GitHub · REST APIs  
+**Practices:** Testing · Code Reviews · CI/CD · Agile/Scrum · Cloud Deploys (Render/Heroku/Vercel/Netlify)
 
-**📸 Screenshots:**
+---
 
-Main interface:
-![Main Interface](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot1.png)
-User1 Uploading Posts:
-![User1 Uploading Posts](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot2.png)
-Loaded Posts List:
-![Loaded Posts List](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot3.png)
-Adding a Post
-![Adding a Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot4.png)
-Posts List with New Post:
-![Posts List with New Post](https://raw.githubusercontent.com/NikoVlasov/social-analyst-dashboard/main/assets/screenshot5.png)
+## 📂 Projects
 
+### 1️⃣ Social Analyst Dashboard (2025)
+**Analytics dashboard for social media posts.** Fetch, add, and track posts efficiently with a clean interface.  
+**Tech:** Python · Streamlit · SQLite · SQLAlchemy · pandas  
+**GitHub:** [View Repository](https://github.com/NikoVlasov/social-analyst-dashboard)  
+**Live Demo:** [Try it here](#)
 
+<div align="center">
+<img src="https://github.com/NikoVlasov/social-analyst-dashboard/blob/main/assets/screenshot1.png" width="200"/>
+<img src="https://github.com/NikoVlasov/social-analyst-dashboard/blob/main/assets/screenshot2.png" width="200"/>
+<img src="https://github.com/NikoVlasov/social-analyst-dashboard/blob/main/assets/screenshot3.png" width="200"/>
+<img src="https://github.com/NikoVlasov/social-analyst-dashboard/blob/main/assets/screenshot4.png" width="200"/>
+<img src="https://github.com/NikoVlasov/social-analyst-dashboard/blob/main/assets/screenshot5.png" width="200"/>
+</div>
 
-2️⃣ Resume Screener API Client (2005)
+---
 
-📝 Python tool to search and filter resumes via a local API.
-Extract structured data from PDF/DOCX and export filtered results to CSV.
+### 2️⃣ Resume Screener API Client (2025)
+**Python tool to search and filter resumes via a local API.** Extract structured data and export filtered results to CSV.  
+**Tech:** Python · FastAPI · Uvicorn · SQLAlchemy · SQLite · pdfplumber · python-docx · pandas · spaCy · pytest · JWT  
+**GitHub:** [View Repository](https://github.com/NikoVlasov/resume-screener)
 
-🛠 Tech: Python · FastAPI · Uvicorn · SQLAlchemy · SQLite · pdfplumber · python-docx · pandas · spaCy · pytest · JWT
-🔗 GitHub: resume-screener
+**Key Features:**
+- 🔍 Search resumes by skills or keywords
+- 📄 Extract data from PDF/DOCX files
+- 💾 Export filtered results to CSV
+- 🧪 Automated testing with pytest
 
-✨ Key Features:
+---
 
-🔍 Search resumes by skills or keywords
+### 3️⃣ FastAPI Task Tracker (2025)
+**Lightweight REST API for task management with secure authentication.**  
+**Tech:** Python 3.9+ · FastAPI · SQLAlchemy · JWT · Pydantic v2 · Uvicorn  
+**GitHub:** [View Repository](https://github.com/NikoVlasov/fastapi-tasks)
 
-📄 Extract data from PDF and DOCX files
+**Key Features:**
+- 🆕 CRUD operations for tasks
+- 🔒 JWT-based authentication
+- ✅ Data validation with Pydantic
+- ⚡ High-performance async endpoints
 
-💾 Export filtered results to CSV
+---
 
-🧪 Automated testing with pytest
+## 💼 Experience
 
-3️⃣ FastAPI Task Tracker (2005)
+**Freelance Python Developer — 2023–2025**  
+- Built full-stack apps and dashboards (Python, Streamlit, FastAPI)  
+- Integrated third-party APIs and automated data flows  
+- Delivered maintainable code with documentation and reproducible environments
 
-🗂 Lightweight REST API for task management with secure authentication.
+---
 
-🛠 Tech: Python 3.9+ · FastAPI · SQLAlchemy · JWT · Pydantic v2 · Uvicorn
-🔗 GitHub: fastapi-tasks
+## 🎓 Education
 
-✨ Key Features:
+**Independent Learning & Freelance Practice — 2022–Present**  
+Self-taught in Python, backend (FastAPI, Django), frontend (React, Streamlit), and SQL databases. Practical experience via freelance projects and open-source contributions. Focused on full-stack applications, APIs, and automation tools.
 
-🆕 CRUD operations for tasks
+---
 
-🔒 JWT-based authentication for secure access
+## 🌐 Languages
 
-✅ Data validation with Pydantic models
-
-⚡ High-performance async endpoints
-
-💡 Tip: Each project repository includes detailed documentation, setup instructions, and example usage.
+- English — B2 (Upper-Intermediate)  
+- Russian — Native
