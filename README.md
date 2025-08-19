@@ -12,11 +12,21 @@ Fetch, add, and track posts efficiently with a clean, intuitive interface.
 
 **📸 Screenshots:**
 
-- **🖥 Interface Overview:** ![screenshot1](assets/screenshot1.png)  
-- **👤 User Login & Load Posts:** ![screenshot2](assets/screenshot2.png)  
-- **📋 Loaded Posts List:** ![screenshot3](assets/screenshot3.png)  
-- **➕ Adding a Post:** ![screenshot4](assets/screenshot4.png)  
-- **✅ Updated Posts List:** ![screenshot5](assets/screenshot5.png)  
+### 1. Main Interface
+![Main Interface](assets/screenshot1.png)
+
+### 2. Entered user1 and loaded posts
+![Load User Posts](assets/screenshot2.png)
+
+### 3. List of loaded posts
+![Loaded Posts](assets/screenshot3.png)
+
+### 4. Adding a new post
+![Add Post](assets/screenshot4.png)
+
+### 5. List with the newly added post
+![Posts After Addition](assets/screenshot5.png)
+
 
 2️⃣ Resume Screener API Client (2005)
 
